@@ -1,6 +1,6 @@
+# Comprehensive Sentiment Analysis of Health and Personal Care Reviews Using Machine Learning and Pretrained Transformers
 The project involves sentiment analysis on Amazon review data using both traditional machine learning methods and pre-trained models from Hugging Face.
 
-# Comprehensive Sentiment Analysis of Health and Personal Care Reviews Using Machine Learning and Pretrained Transformers
 ## 1. Machine Learning Apptoach
 ### Data Loading and Preprocessing:
 
